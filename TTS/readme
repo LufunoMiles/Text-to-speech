@@ -1,0 +1,16 @@
+Text-to-Speech Web Application
+
+This is a simple text-to-speech web application that allows users to enter text in a textarea and convert it to speech using the Web Speech API.
+
+Features
+Input text into a textarea.
+Click a button to hear the text spoken aloud.
+Uses the Web Speech API for text-to-speech functionality.
+Simple and clean user interface.
+
+
+Files
+index.html: The main HTML file that contains the structure of the webpage.
+styles.css: The CSS file that styles the webpage.
+script.js: The JavaScript file that handles the text-to-speech functionality.
+
